@@ -31,4 +31,4 @@ Email: claytonmildy@gmail.com
 
 LinkedIn: https://www.linkedin.com/in/clayton-mildy-638005259
 
-I will keep updating this portofolio, stay tuned!!
+# I will keep updating this portofolio, stay tuned!!
