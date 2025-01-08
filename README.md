@@ -1,6 +1,3 @@
-
-markdown
-Copy code
 # Clayton's QA Portfolio
 
 ## Overview
