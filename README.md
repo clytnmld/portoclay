@@ -25,7 +25,9 @@ Welcome to my Quality Assurance Portfolio! This repository showcases my work and
   git clone https://github.com/clytnmld/portoclay.git
 Follow the instructions in each project directory to run or test the projects.
 Contact
+
 Email: claytonmildy@gmail.com
+
 LinkedIn: https://www.linkedin.com/in/clayton-mildy-638005259
 
 I will keep updating this portofolio, stay tuned!!
