@@ -8,6 +8,7 @@ Welcome to my Quality Assurance Portfolio! This repository showcases my work and
 ### 1. Cypress Projects
 - **Project Name**: Automation Example
   - **Description**: an automation test using orangeHRM
+  - **Best Practice Used**: POM, Cucumber, Gherkin
   - **Link to Project**: /Cypress
 
 ### 2. Selenium Projects
