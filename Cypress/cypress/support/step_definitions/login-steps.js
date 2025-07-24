@@ -45,3 +45,7 @@ Then("I success login and already in dashboard page",()=>{
 Then("I click button login", ()=>{
     loginPage.doClickLoginButton()
 })
+
+Then("I see orangeHRM login page",()=>{
+    loginPage.validateLoginPage()
+})

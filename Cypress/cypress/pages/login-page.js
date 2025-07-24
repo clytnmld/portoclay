@@ -22,4 +22,8 @@ export class LoginPage {
         cy.url().should("include", "/dashboard")
         cy.get('.oxd-topbar-header-title').contains('Dashboard').should('be.visible')
     }
+    validateLoginPage(){
+        cy.url().should('include', '/login')
+        cy.get('.orangehrm-login-branding').should('be.visible')
+    }
 }
